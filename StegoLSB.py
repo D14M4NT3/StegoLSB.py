@@ -43,7 +43,7 @@ print """
 |     ^$$$$b          $$$$e  F                      |
 |---------------------------------------------------|
 |                     StegoLSB.py                   |
-|  Trackmaze.blogspot.com | d14m4nte.wordpress.com  |
+|  Trackmaze.blogspot.com | d14m4nt3.wordpress.com  |
 |        2014/08/05       |  Least Significant Bit  |
 |---------------------------------------------------|
 """
